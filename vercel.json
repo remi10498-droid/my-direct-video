@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://api.picsart.io/tools/1.0/video/generate"
+      "destination": "https://gen-ai.picsart.com/tools/1.0/video/generate"
     }
   ]
 }

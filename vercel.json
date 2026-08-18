@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://api.picsart.com/$1"
+      "destination": "https://picsart.com/$1"
     }
   ]
 }

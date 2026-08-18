@@ -4,7 +4,6 @@
     {
       "source": "/(.*)",
       "destination": "https://api-v2.picsart.io/tools/1.0/video/generate"
-"
     }
   ]
 }
